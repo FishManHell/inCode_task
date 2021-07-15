@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="415196f5-44ef-4e5c-842d-30ea354e411f" name="Default Changelist" comment="" />
+    <list default="true" id="415196f5-44ef-4e5c-842d-30ea354e411f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/finance-test-task-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/MaterialUi/MaterialUi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Ticker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TickerList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/styledComponents/NavigationStyled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/styledComponents/OrdinaryStyled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/styledComponents/TickerStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/styledComponents/universalStyled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/FontAwesome/Redular.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/FontAwesome/Solid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/universalFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +54,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vLbCSgPbJ725H3R5VFsycWsOz3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,9 +77,6 @@
       <recent name="E:\4. Works HTML  CSS JS JAVA\ТЗ - трудоустройства\My project\finance-test-task-main\client\src\components" />
       <recent name="E:\4. Works HTML  CSS JS JAVA\ТЗ - трудоустройства\My project\finance-test-task-main\client\src" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\4. Works HTML  CSS JS JAVA\ТЗ - трудоустройства\My project\finance-test-task-main\client\src\components\MaterialUi" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,7 +90,8 @@
       <workItem from="1626344416884" duration="711000" />
       <workItem from="1626345520553" duration="1960000" />
       <workItem from="1626347514382" duration="11697000" />
-      <workItem from="1626360506656" duration="345000" />
+      <workItem from="1626360506656" duration="328000" />
+      <workItem from="1626360853642" duration="302000" />
     </task>
     <servers />
   </component>
