@@ -8,8 +8,8 @@ import {start} from "./utils/api";
 import {getFavoriteTicker, getTickers} from "./redux/action";
 import TickerList from "./components/TickerList";
 
-const App = () => {
-    const dispatch = useDispatch();
+function App () {
+     const dispatch = useDispatch();
 
     useEffect(() => {
         start((ticker) => dispatch(getTickers(ticker)))
@@ -28,6 +28,6 @@ const App = () => {
             </Container>
         </div>
     );
-};
+}
 
 export default App;

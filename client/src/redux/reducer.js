@@ -9,14 +9,11 @@ export const tickersReducer = (state = initialState, action) => {
     switch (action.type) {
         case GET_TICKERS:
             return {...state, tickers: action.payload};
-
         case FAVORITE_TICKER:
             const tickerFavorite = [...state.favoritesTickers];
             tickerFavorite.push(action.payload)
-            const newFavorite = [... new Set(tickerFavorite)];
-            localStorage.setItem('favorites', JSON.stringify(newFavorite));
-            return {...state, favoritesTickers: newFavorite};
-
+            localStorage.setItem('favorites', JSON.stringify(tickerFavorite));
+            return {...state, favoritesTickers: tickerFavorite};
         case REMOVE_FAVORITE_TICKER:
             const favorite = [...state.favoritesTickers]
             localStorage.getItem('favorites');
@@ -26,7 +23,6 @@ export const tickersReducer = (state = initialState, action) => {
             }
             localStorage.setItem('favorites', JSON.stringify(favorite));
             return {...state, favoritesTickers: favorite};
-
         case GET_FAVORITE_TICKER:
             let getFavorite = []
             if (localStorage['favorites']) {
