@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="415196f5-44ef-4e5c-842d-30ea354e411f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/MaterialUi/MaterialUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/MaterialUiStyle/MaterialUi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Ticker.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Ticker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/redux/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/utils/FontAwesome/Redular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/utils/FontAwesome/Solid.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/utils/FontAwesome/Solid.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +47,9 @@
       <recent name="E:\4. Works HTML  CSS JS JAVA\ТЗ - трудоустройства\My project\finance-test-task-main\client\src\components" />
       <recent name="E:\4. Works HTML  CSS JS JAVA\ТЗ - трудоустройства\My project\finance-test-task-main\client\src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\4. Works HTML  CSS JS JAVA\ТЗ - трудоустройства\My project\finance-test-task-main\client\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,10 +68,22 @@
       <workItem from="1626435705387" duration="3621000" />
       <workItem from="1626451255727" duration="213000" />
       <workItem from="1626463217618" duration="4032000" />
+      <workItem from="1626521045865" duration="332000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
