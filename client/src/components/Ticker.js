@@ -3,7 +3,7 @@ import {MainBlockPost, TextPost} from "./styledComponents/TickerStyle";
 import {changeArrow, changeColor} from "../utils/universalFunction";
 import {useDispatch, useSelector} from "react-redux";
 import {favoriteTicker, removeFavoriteTicker} from "../redux/action";
-import {useStyles} from "./MaterialUi/MaterialUi";
+import {useStyles} from "../MaterialUiStyle/MaterialUi";
 import IconButton from '@material-ui/core/IconButton';
 import StarBorderIcon from '@material-ui/icons/StarBorder';
 import StarIcon from '@material-ui/icons/Star';
